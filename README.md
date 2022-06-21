@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/yolo237/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 </p>
 
-### <img src="https://github.com/Yolo237/Resource/blob/main/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/Yolo237/Resource/blob/main/Developer.gif" width="35" /> About Me:
 - 🏦 I'm a Data Scientist 
 - 💻 I use  **.py**,  **.sql** , **.java**,
 - 📖 I love Reading
