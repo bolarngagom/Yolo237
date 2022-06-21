@@ -23,7 +23,7 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="30" height="30"/>
       <img src="https://github.com/Yolo237/Resource/blob/main/odoo.svg" alt="Odoo" width="30" height="30"/>
-      <img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" alt="Latex" width="30" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="Latex" width="30" height="30"/>
      
       
       
