@@ -18,9 +18,12 @@
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="30" height="30"/>
       <img src="https://github.com/Yolo237/Resource/blob/main/353176.svg" alt="Kali Linux" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="30" height="30"/>
+      <img src="https://github.com/Yolo237/Resource/blob/main/MS.png" alt="Metasploit" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="30" height="30"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="30" height="30"/>
+      
+      
      
       
 </p>
