@@ -11,7 +11,7 @@
 - 💻 I use  **.py**,  **.sql** , **.java**,
 - 📖 I love Reading
 - 💬 Talk to me about Football and Finance.
-- ⚡ Fun fact: I speak English but my native language is French.
+- ⚡ I speak English but my native language is French.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
