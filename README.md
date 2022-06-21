@@ -16,7 +16,6 @@
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="30" height="30"/>
-      <img src="https://github.com/Yolo237/Resource/blob/main/353176.svg" alt="Kali Linux" width="30" height="30"/>
       <img src="https://github.com/Yolo237/Resource/blob/main/Kali.svg" alt="Kali Linux" width="30" height="30"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="30" height="30"/>
       <img src="https://github.com/Yolo237/Resource/blob/main/MS.png" alt="Metasploit" width="30" height="30"/>
