@@ -1,7 +1,7 @@
+<img src="https://github.com/Yolo237/Resource/blob/main/header_.png" width="350" />
 # Hello there I am Chébil NGAGOM👋
 <img src="https://github.com/Yolo237/Resource/blob/main/Hi.gif" width="35" />
-<img src="https://github.com/Yolo237/Resource/blob/main/header_.png" width="35" />
-<img src="https://github.com/Yolo237/Resource/blob/main/Work.gif" width="35" />
+<img src="https://github.com/Yolo237/Resource/blob/main/Work.gif" width="350" />
 <p align="center">
 <a href="https://twitter.com/yolocmr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/yolo237/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
