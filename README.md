@@ -3,7 +3,8 @@
 <p><img align="right" src="https://github.com/Yolo237/Resource/blob/main/Work.gif" alt="www" /></p>
 
 ### <img src="https://github.com/Yolo237/Resource/blob/main/Developer.gif" width="35" /> About Me:
-- 🏦 I'm a Data Scientist 
+- 🏦 I'm a Data Scientist
+- :eyes: I am passionate about Data Science, Computer security and AI. My goal is to apply its tools to solve concrete problems in various fields such as finance.
 - 💻 I use  **.py**,  **.sql** , **.java**,
 - 📖 I love Reading
 - 💬 Talk to me about Football and Finance.
@@ -25,10 +26,14 @@
 <p align="left">
    <a href="https://twitter.com/yolocmr" target="blank"><img align="center"
       src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"
-      alt="Chebil Ngagom" height="30" width="40" /></a>
+      alt="Chebil Ngagom" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/yolo237/" target="blank"><img align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
-      alt="Chebil Ngagom" height="30" width="40" /></a>
+      alt="Chebil Ngagom" height="30" width="30" /></a>
+  <a href="https://t.me/OPJ_237" target="blank"><img align="center"
+      src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"
+      alt="Chebil Ngagom" height="30" width="30" /></a>
+      
   
 
 </p>
