@@ -26,9 +26,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="Latex" width="30" height="30"/>
      
       
-      
-      
-     
+        
       
 </p>
 
