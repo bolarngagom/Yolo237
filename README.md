@@ -4,10 +4,10 @@
 
 ### <img src="https://github.com/Yolo237/Resource/blob/main/Developer.gif" width="35" /> About Me:
 - 🏦 I'm a Data Scientist
-- :eyes: I am passionate about Data Science, Computer security, AI, Blockchain, Quantum computing and finance. My goal is to apply these tools to solve concrete problems in various fields such as finance.
+- :eyes: I am passionate about Data Science, Computer Security, AI, Blockchain, Quantum computing and Finance. My goal is to apply these tools to solve concrete problems in various fields such as finance.
 - 💻 I use  **.py**,  **.sql** , **.java**,
 - 📖 I love Reading
-- 💬 Talk to me about Football and Finance.
+- 💬 Talk to me about Football and Music.
 - ⚡ I speak English but my native language is French.
 - 🧑‍💻 Tech I work on :
 
