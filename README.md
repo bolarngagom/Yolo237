@@ -32,10 +32,10 @@
 
 ## Connect with me:
 <p align="left">
-   <a href="https://twitter.com/yolocmr" target="blank"><img align="center"
+   <a href="https://twitter.com/" target="blank"><img align="center"
       src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"
       alt="Chebil Ngagom" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/yolo237/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ngagom/" target="blank"><img align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="Chebil Ngagom" height="30" width="30" /></a>
   <a href="https://t.me/OPJ_237" target="blank"><img align="center"
