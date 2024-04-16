@@ -1,5 +1,5 @@
 ![](https://github.com/bolarngagom/bolarngagom/blob/main/Resource/header_.png)
-# Hello there I'm Bolar NGAGOM <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Hi.gif" width="30" />
+# Hi, I'm Bolar NGAGOM. <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Hi.gif" width="30" />
 <p><img align="right" src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Work.gif" alt="www" /></p>
 
 ### <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Developer.gif" width="35" /> About Me :
