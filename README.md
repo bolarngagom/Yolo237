@@ -2,7 +2,7 @@
 # Hello there I'm Bolar NGAGOM <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Hi.gif" width="30" />
 <p><img align="right" src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Work.gif" alt="www" /></p>
 
-### <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Developer.gif" width="35" /> About Me:
+### <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Developer.gif" width="35" /> About Me :
 - 🏦 I'm a Data Enthusiast.
 - :eyes: My passion lies in Economics, Finance, Data Science, Computer Security, AI, Blockchain, and Quantum Computing. I aim to leverage these tools to address tangible challenges across diverse domains, particularly within finance.
 - 💻 I use  **.py**,  **.sql** , **.java**,
