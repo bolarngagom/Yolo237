@@ -4,11 +4,11 @@
 
 ### <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Developer.gif" width="35" /> About Me:
 - 🏦 I'm a Data Enthusiast
-- :eyes: I am passionate about Economics, Finance, Data Science, Computer Security, AI, Blockchain and Quantum computing. My goal is to apply these tools to solve concrete problems in various fields such as finance.
+- :eyes: My passion lies in Economics, Finance, Data Science, Computer Security, AI, Blockchain, and Quantum Computing. I aim to leverage these tools to address tangible challenges across diverse domains, particularly within finance.
 - 💻 I use  **.py**,  **.sql** , **.java**,
 - 📖 I love Reading
-- 💬 Talk to me about Football and Music.
-- ⚡ I speak English but my native language is French.
+- 💬 Let's chat about Football ⚽️ and Music 🎵!
+- ⚡ I speak both French and English.
 - 🧑‍💻 Tech I work on :
 
 <p align="left">
