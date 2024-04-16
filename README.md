@@ -1,10 +1,10 @@
 ![](https://github.com/bolarngagom/bolarngagom/blob/main/Resource/header_.png)
-# Hello there I am Bolar NGAGOM <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Hi.gif" width="30" />
+# Hello there I'm Bolar NGAGOM <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Hi.gif" width="30" />
 <p><img align="right" src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Work.gif" alt="www" /></p>
 
 ### <img src="https://github.com/bolarngagom/bolarngagom/blob/main/Resource/Developer.gif" width="35" /> About Me:
-- 🏦 I'm a Data Scientist
-- :eyes: I am passionate about Finance, Data Science, Computer Security, AI, Blockchain and Quantum computing. My goal is to apply these tools to solve concrete problems in various fields such as finance.
+- 🏦 I'm a Data Enthusiast
+- :eyes: I am passionate about Economics, Finance, Data Science, Computer Security, AI, Blockchain and Quantum computing. My goal is to apply these tools to solve concrete problems in various fields such as finance.
 - 💻 I use  **.py**,  **.sql** , **.java**,
 - 📖 I love Reading
 - 💬 Talk to me about Football and Music.
